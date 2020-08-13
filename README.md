@@ -4,7 +4,9 @@ the problem is to build a model that works best in the data provided here http:/
 # Notes and Describtion of Data
 
 the is mixed between categorical and continous data.
-it has some problems 
+
+it has some problems
+
   1- it follows different distribution between training and validation which causes high variance obvious in the huge difference between val-acc and train-acc for both models 
   either SVM and Decision Tree
   
